@@ -14,6 +14,6 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - uses: josephzjw/gh-pages-pelican-action@latest
+    - uses: josephzjw/gh-pages-pelican-action@v2
       env:
         GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
