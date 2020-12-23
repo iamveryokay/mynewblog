@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
-# haha
+# aha
 
 AUTHOR = 'iamveryokay'
 SITENAME = 'iamveryokay'
