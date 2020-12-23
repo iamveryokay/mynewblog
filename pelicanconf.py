@@ -3,7 +3,7 @@
 
 AUTHOR = 'iamveryokay'
 SITENAME = 'iamveryokay'
-SITEURL = ''
+SITEURL = 'https://iamveryokay.github.io/mynewblog'
 
 PATH = 'content'
 
